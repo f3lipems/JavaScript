@@ -6,7 +6,7 @@ function aloMundo(nome)
     console.log(`Alô ${nome}`);
 }
 
-aloMundo("S2B");
+aloMundo("Felipe");
 
 function potencia(base, expoente = 2) 
 {
